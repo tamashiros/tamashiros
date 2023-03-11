@@ -1,4 +1,7 @@
-### Hi there 👋
+# Olá O meu nome é Keiichi Tamashiro👋
+# Formado em Tecnologia em Analise e Desenvolvimentos de Sistemas pela Fatec- ZL 👋
+# Décimo semenestre de Engenharia de Computação 👋
+# Estudo Front End no Ford Senai 👋
 
 <!--
 **tamashiros/tamashiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
