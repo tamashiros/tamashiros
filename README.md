@@ -1,8 +1,12 @@
 # Olá O meu nome é Keiichi Tamashiro👋
 # Formado em Tecnologia em Analise e Desenvolvimentos de Sistemas pela Fatec- ZL 👋
-# Aguardando a colação de grau Engenharia de Computação 👋
+# Aguardando a colação de grau Engenharia de Computação pela UNIVESP 👋
 # Estudo Front End no Senai patrocinado pela Ford 👋👋
-# Emal: tamashirokeiichi@gmail.com👋
+# Estudo Back End pela Alura patrocinado pela empresa ONE - Oracle Next Education 👋👋
+# Emal: tamashirokeiichi@gmail.com 👋
+# https://www.linkedin.com/in/keiichitamashiro-analisedesenvolvimentodesistema/👋
+
+                                         
 
 <!--
 **tamashiros/tamashiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
