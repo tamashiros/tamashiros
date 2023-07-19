@@ -1,6 +1,6 @@
 # Olá O meu nome é Keiichi Tamashiro👋
 # Formado em Tecnologia em Analise e Desenvolvimentos de Sistemas pela Fatec- ZL 👋
-# Décimo semestre de Engenharia de Computação 👋
+# Aguardando a colação de grau Engenharia de Computação 👋
 # Estudo Front End no Senai patrocinado pela Ford 👋👋
 # Emal: tamashirokeiichi@gmail.com👋
 
