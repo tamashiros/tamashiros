@@ -1,8 +1,8 @@
 # Olá O meu nome é Keiichi Tamashiro👋
 # Formado em Tecnologia em Analise e Desenvolvimentos de Sistemas pela Fatec- ZL 👋
-# Aguardando a colação de grau Engenharia de Computação pela UNIVESP 👋
+# Formado em Engenharia de Computação pela UNIVESP 👋
 # Estudo Front End no Senai patrocinado pela Ford 👋👋
-# Estudo Back End pela Alura patrocinado pela empresa ONE - Oracle Next Education 👋👋
+# Formado em Back-End pela Alura patrocinado pela empresa ONE - Oracle Next Education 👋👋
 # Emal: tamashirokeiichi@gmail.com 👋
 # https://www.linkedin.com/in/keiichitamashiro-analisedesenvolvimentodesistema/👋
 
