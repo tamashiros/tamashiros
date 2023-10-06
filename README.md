@@ -4,7 +4,7 @@
 # Estudo Front End no Senai patrocinado pela Ford 👋👋
 # Formado em Back-End pela Alura patrocinado pela empresa ONE - Oracle Next Education 👋👋
 # Emal: tamashirokeiichi@gmail.com 👋
-# https://www.linkedin.com/in/keiichitamashiro-analisedesenvolvimentodesistema/👋
+# https://www.linkedin.com/in/keiichitamashiroengenheirocomputacional/👋
 
                                          
 
