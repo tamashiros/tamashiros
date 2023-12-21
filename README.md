@@ -1,15 +1,18 @@
-# Olá O meu nome é Keiichi Tamashiro👋
-# Formado em Tecnologia em Analise e Desenvolvimentos de Sistemas pela Fatec- ZL 👋
-# Formado em Engenharia de Computação pela UNIVESP 👋
-# Estudo Front End no Senai patrocinado pela Ford 👋👋
-# Formado em Back-End pela Alura patrocinado pela empresa ONE - Oracle Next Education 👋👋
-# Emal: tamashirokeiichi@gmail.com 👋
-# https://www.linkedin.com/in/keiichitamashiroengenheirocomputacional/👋
+### Keiichi Tamashiro
 
-                                         
+👋 Olá! Sou formado Engenharia de Computação. Atualmente, me dedico ao estudo e desenvolvimento de aplicações back-end, front-end em Java.
 
-<!--
-**tamashiros/tamashiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/keiichitamashiroengenheiro/) 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+  
+
 
 Here are some ideas to get you started:
 
