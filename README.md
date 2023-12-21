@@ -1,6 +1,6 @@
 ### Keiichi Tamashiro
 
-👋 Olá! Sou formado Engenharia de Computação. Atualmente, me dedico ao estudo e desenvolvimento de aplicações back-end, front-end em Java.
+👋 Olá! Sou formado em Engenharia de Computação. Atualmente, me dedico ao estudo e desenvolvimento de aplicações back-end, front-end em Java.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/keiichitamashiroengenheiro/) 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
